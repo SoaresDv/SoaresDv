@@ -2,7 +2,6 @@
 ### Olá! Eu sou o Vinícius 👋
 
 
-![Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=SoaresDv&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso no meu dia
 
